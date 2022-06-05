@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Buff MR.Ed.png">
+    <SubTexture name="Buff MR.Ed idle0000" x="3940" y="0" width="1970" height="2648" frameX="-400" frameY="-352" frameWidth="3000" frameHeight="3000" />
+    <SubTexture name="Buff MR.Ed left0000" x="1970" y="0" width="1970" height="2678" frameX="-160" frameY="-322" frameWidth="3000" frameHeight="3000" />
+    <SubTexture name="Buff MR.Ed up0000" x="0" y="0" width="1970" height="2846" frameX="-472" frameY="-154" frameWidth="3000" frameHeight="3000" />
+    <SubTexture name="Buff MR.Ed down0000" x="1970" y="2846" width="1970" height="2392" frameX="-400" frameY="-608" frameWidth="3000" frameHeight="3000" />
+    <SubTexture name="Buff MR.Ed right0000" x="0" y="2846" width="1970" height="2640" frameX="-784" frameY="-360" frameWidth="3000" frameHeight="3000" />
+</TextureAtlas>

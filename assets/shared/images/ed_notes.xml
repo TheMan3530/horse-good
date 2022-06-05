@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ed_notes.png">
+    <SubTexture name="ed_notes Down0000" x="0" y="0" width="210" height="213" frameX="0" frameY="0" frameWidth="210" frameHeight="213" />
+    <SubTexture name="ed_notes Left0000" x="210" y="0" width="210" height="213" frameX="0" frameY="0" frameWidth="210" frameHeight="213" />
+    <SubTexture name="ed_notes Right0000" x="420" y="0" width="210" height="213" frameX="0" frameY="0" frameWidth="210" frameHeight="213" />
+    <SubTexture name="ed_notes Up0000" x="0" y="213" width="210" height="213" frameX="0" frameY="0" frameWidth="210" frameHeight="213" />
+</TextureAtlas>

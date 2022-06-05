@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AnaPixel.png">
+    <SubTexture name="Ana IDLE0000" x="0" y="0" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+    <SubTexture name="Ana IDLE0001" x="20" y="0" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+    <SubTexture name="Ana LEFT0000" x="0" y="20" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+    <SubTexture name="Ana DOWN0000" x="20" y="20" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+    <SubTexture name="Ana UP0000" x="0" y="40" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+    <SubTexture name="Ana RIGHT0000" x="20" y="40" width="20" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="20" />
+</TextureAtlas>

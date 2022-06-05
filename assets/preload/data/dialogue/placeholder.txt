@@ -1,0 +1,13 @@
+::
+:bf: Yersinia Pestis
+:gf: Yersinia Pestis
+:pico: Yersinia Pestis
+:ed: Yersinia Pestis
+:pico-surprised: Yersinia Pestis
+:vintendo: Yersinia Pestis
+:troll: Yersinia Pestis
+:pico-sad: Yersinia Pestis
+:gf-sad: Yersinia Pestis
+:pico-sad-angry: Yersinia Pestis
+:senpai: Yersinia Pestis
+:bf-pixel: Yersinia Pestis
