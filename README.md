@@ -11,3 +11,5 @@ So remember when Ninjamuffin said that Pico had schizophrenia? Basically, he for
 Also, check the files of the mod. There are quite a few easter eggs hidden in here, including (currently) 3 bonus songs with Pico as the main character.
 
 Tip: Once you beat the main week AND the bonus song in freeplay, check the charting menu, more specifically, the corners of the screen. You may see something new.
+
+Check HOW_TO_BUILD.md to se how to compile.
